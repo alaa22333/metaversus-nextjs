@@ -33,9 +33,11 @@ const Page = () => (
       <Insights />
    </div>
       <Feedback />
-    
+          <div className="relative ">
+
     <div className="gradient-03 z-0" />
     <Footer />
+  </div>
   </div>
 );
 
