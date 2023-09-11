@@ -2,7 +2,7 @@ Modern Animated Next.js Website
 ![meta](https://github.com/alaa22333/metaversus-nextjs/assets/87030668/24a38bb2-e512-4734-bb32-dc9fa60e9df0)
 # Skills :computer:
 
- [![My Skills](https://skillicons.dev/icons?i=react,html,css,firebase,tailwindcss,mui,charts,AOS,nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,html,css,firebase,tailwindcss,mui,nextjs)](https://skillicons.dev)
 
 
 
@@ -24,7 +24,7 @@ This project is a modern animated Next.js website that was converted from an ins
 
 ## Usage :wink:
 
-To use the website, navigate to `http://localhost:5173` in your browser. 
+To use the website, navigate to `http://localhost:3000` in your browser. 
 
 ## Contributing
 
